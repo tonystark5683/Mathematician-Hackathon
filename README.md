@@ -1,3 +1,7 @@
+Super excited to share that our team "Mathemagicians" clinched the top spot at the recent hackathon organized by the Mathematics Club VITCC, VIT Chennai! 🏆🚀 Our project, "Empowering Store Management through Computational Models," delved into forecasting sales, energy consumption, foot traffic analysis, and temperature trends.
+
+With a clear objective in mind – to minimize energy waste, streamline resource usage, and foster sustainability – we devised a solution that stands out for its integration of profound machine learning models and a user-friendly dashboard crafted specifically for store managers. This dashboard offers invaluable insights into energy consumption, foot traffic, temperature trends, and most importantly, precise sales forecasts. Our solution doesn't just stop at predicting energy consumption; it goes further by forecasting sales trends, empowering store managers to proactively manage operations and improve overall efficiency.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
